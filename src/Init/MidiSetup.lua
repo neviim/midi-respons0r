@@ -6,6 +6,7 @@
 
 require "Module/Module"
 require "Module/TrackDSP/TrackDSP"
+require "Layer/MidiController"
 
 class "MidiSetup"
 
@@ -26,6 +27,7 @@ function MidiSetup:activate()
 end
 
 function MidiSetup:connect_midi(options)
+    print(options['midi']['name'])
     self.midi:connect(options['midi']['name'])
 end
 
