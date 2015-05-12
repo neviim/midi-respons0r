@@ -50,7 +50,7 @@ local control = nil
 function create_main_UI()
     main_ui = MainUI()
     main_ui:register_run_callback(function (options)
-        midi_setup:connect_control(options)
+        midi_setup:connect_midi(options)
         midi_setup:activate()
     end)
     main_ui:register_stop_callback(function ()
@@ -59,9 +59,7 @@ function create_main_UI()
     main_ui:register_device_update_callback(function ()
         local list = {}
         for _,v in pairs(renoise.Midi.available_input_devices()) do
-            if string.find(v, "nanoKONTROL2") then
-                table.insert(list,v)
-            end
+            table.insert(list,v)
         end
         return list
     end)

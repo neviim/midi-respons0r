@@ -7,6 +7,10 @@ function TrackDSP:__init()
     self:__create_parameter_dump()
 end
 
+function TrackDSP:wire_midi(midi)
+    self.midi = midi
+end
+
 function TrackDSP:_activate()
     add_notifier(renoise.song().selected_track_device_observable, self.__parameter_dump)
 end
@@ -17,7 +21,18 @@ end
 
 function TrackDSP:__create_parameter_dump()
     self.__parameter_dump = function ()
-        print_current_dsp()
+        local selected_dsp = renoise.song().selected_track_device
+        if (selected_dsp) then
+            for i, parameter in ipairs(selected_dsp.parameters) do
+                -- parameter.name
+                -- parameter.value_min
+                -- parameter.value_max
+                -- parameter.value
+                local midi_value = value_to_midi(parameter.value_min, parameter.value_max, parameter.value)
+                self.midi:send(0xb0 , i - 1 , midi_value)
+--                print( "ch1 arg" .. (i - 1) .. " -> " .. midi_value)
+            end
+        end
     end
 end
 

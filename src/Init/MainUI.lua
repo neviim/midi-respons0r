@@ -153,7 +153,7 @@ end
 --- returns an object of all configurations
 function MainUI:run_properties()
     return {
-        nanoKontrol2 = {
+        midi = {
             name = self:selected_device(),
         }
     }

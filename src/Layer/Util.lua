@@ -53,3 +53,9 @@ function midi_to_value_log(midi_value, current_value, min_value, max_value )
     print("d : " .. d)
     return d
 end
+
+function value_to_midi(min_value, max_value, current_value)
+    local a = current_value - min_value
+    local b = max_value - min_value
+    return math.floor((a / b) * 127)
+end
