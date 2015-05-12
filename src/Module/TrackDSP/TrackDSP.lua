@@ -17,7 +17,6 @@ end
 
 function TrackDSP:__create_parameter_dump()
     self.__parameter_dump = function ()
-        print_current_dsp()
         local selected_dsp = renoise.song().selected_track_device
         if (selected_dsp) then
             for i, parameter in ipairs(selected_dsp.parameters) do
