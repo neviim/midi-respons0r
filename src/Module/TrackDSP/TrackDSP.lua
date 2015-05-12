@@ -7,6 +7,10 @@ function TrackDSP:__init()
     self:__create_parameter_dump()
 end
 
+function TrackDSP:wire_midi(midi)
+    self.midi = midi
+end
+
 function TrackDSP:_activate()
     add_notifier(renoise.song().selected_track_device_observable, self.__parameter_dump)
 end
@@ -25,7 +29,8 @@ function TrackDSP:__create_parameter_dump()
                 -- parameter.value_max
                 -- parameter.value
                 local midi_value = value_to_midi(parameter.value_min, parameter.value_max, parameter.value)
-                print( "chX arg" .. i .. " -> " .. midi_value)
+                self.midi:send(0, i, midi_value)
+--                print( "chX arg" .. i .. " -> " .. midi_value)
             end
         end
     end
