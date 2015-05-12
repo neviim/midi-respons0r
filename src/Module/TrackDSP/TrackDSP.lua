@@ -29,8 +29,8 @@ function TrackDSP:__create_parameter_dump()
                 -- parameter.value_max
                 -- parameter.value
                 local midi_value = value_to_midi(parameter.value_min, parameter.value_max, parameter.value)
-                self.midi:send(0xb0 , i, midi_value)
---                print( "chX arg" .. i .. " -> " .. midi_value)
+                self.midi:send(0xb0 , i - 1 , midi_value)
+--                print( "ch1 arg" .. (i - 1) .. " -> " .. midi_value)
             end
         end
     end
