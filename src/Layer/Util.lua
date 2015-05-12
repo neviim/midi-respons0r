@@ -53,3 +53,10 @@ function midi_to_value_log(midi_value, current_value, min_value, max_value )
     print("d : " .. d)
     return d
 end
+
+-- todo fix me
+function value_to_midi(min_value, max_value, current_value)
+    local difference = max_value - min_value
+    local diff_step = difference / 128
+    return max_value - current_value / diff_step
+end
