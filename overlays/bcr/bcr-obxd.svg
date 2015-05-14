@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="28.713188cm"
-   height="34.738914cm"
-   viewBox="0 0 1017.3965 1230.9064"
+   width="28.628222cm"
+   height="29.200674cm"
+   viewBox="0 0 1014.3859 1034.6695"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="bcr-both-obxd-send.svg">
+   sodipodi:docname="bcr-both-obxd.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.39238281"
-     inkscape:cx="1283.2426"
-     inkscape:cy="757.40182"
+     inkscape:cx="678.89742"
+     inkscape:cy="840.20137"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1276"
      inkscape:window-height="761"
@@ -44,67 +44,67 @@
      showguides="false"
      inkscape:guide-bbox="true">
     <sodipodi:guide
-       position="508.25714,959.52215"
+       position="510.34351,959.52211"
        orientation="0,1"
        id="guide4922" />
     <sodipodi:guide
-       position="510.80567,908.55152"
+       position="512.89204,908.55148"
        orientation="1,0"
        id="guide4924" />
     <sodipodi:guide
-       position="509.31133,363.17621"
+       position="511.3977,363.17622"
        orientation="1,0"
        id="guide4926" />
     <sodipodi:guide
-       position="515.90273,622.16026"
+       position="517.9891,622.16025"
        orientation="0,1"
        id="guide4928" />
     <sodipodi:guide
-       position="71.235943,617.66427"
+       position="73.3223,617.66426"
        orientation="1,0"
        id="guide4930" />
     <sodipodi:guide
-       position="710.86318,864.77504"
+       position="712.94955,864.77501"
        orientation="1,0"
        id="guide4932" />
     <sodipodi:guide
-       position="713.56631,873.67283"
+       position="715.65268,873.6728"
        orientation="1,0"
        id="guide4934" />
     <sodipodi:guide
-       position="938.64046,631.3987"
+       position="940.72683,631.39868"
        orientation="1,0"
        id="guide5028" />
     <sodipodi:guide
-       position="14.479101,602.40914"
+       position="16.565457,602.40913"
        orientation="0,1"
        id="guide5218" />
     <sodipodi:guide
-       position="612.87485,504.5835"
+       position="614.96122,504.58349"
        orientation="1,0"
        id="guide5220" />
     <sodipodi:guide
-       position="815.1588,460.43244"
+       position="817.24517,460.43244"
        orientation="1,0"
        id="guide5222" />
     <sodipodi:guide
-       position="713.56631,75.687497"
+       position="715.65268,75.687524"
        orientation="0,1"
        id="guide5224" />
     <sodipodi:guide
-       position="75.178002,486.11213"
+       position="77.264359,486.11213"
        orientation="1,0"
        id="guide5724" />
     <sodipodi:guide
-       position="816.98904,526.23667"
+       position="819.07541,526.23666"
        orientation="1,0"
        id="guide6282" />
     <sodipodi:guide
-       position="929.40203,560.67694"
+       position="931.4884,560.67693"
        orientation="1,0"
        id="guide6284" />
     <sodipodi:guide
-       position="610.4533,544.62355"
+       position="612.53967,544.62354"
        orientation="1,0"
        id="guide6450" />
   </sodipodi:namedview>
@@ -124,8 +124,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Background"
-     sodipodi:insensitive="true"
-     transform="translate(-2.0863559,196.23694)">
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125.3433075px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;opacity:0.21000001;fill:#002244;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -165,51 +164,51 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:163.66046143px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;opacity:0.21000001;fill:#002244;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-152.95926"
-       y="430.13669"
+       x="-476.40378"
+       y="427.04425"
        id="text6454-2-3"
        sodipodi:linespacing="125%"
-       transform="matrix(0,-0.60670982,1.6482344,0,0,0)"><tspan
+       transform="matrix(0,-0.60670981,1.6482344,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan6456-6-8"
-         x="-152.95926"
-         y="430.13669">OSC</tspan></text>
+         x="-476.40378"
+         y="427.04425">OSC</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:175.54737854px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;opacity:0.21000001;fill:#002244;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-176.51733"
-       y="549.87061"
+       x="-509.2449"
+       y="546.86444"
        id="text6454-2-3-1"
        sodipodi:linespacing="125%"
        transform="matrix(0,-0.58978268,1.6955398,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan6456-6-8-8"
-         x="-176.51733"
-         y="549.87061">OSC</tspan></text>
+         x="-509.2449"
+         y="546.86444">OSC</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.97270203px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;opacity:0.21000001;fill:#002244;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="967.03436"
-       y="112.04666"
+       x="957.53644"
+       y="217.3576"
        id="text6454-2-3-1-8"
        sodipodi:linespacing="125%"
-       transform="scale(0.53665194,1.8634052)"><tspan
+       transform="scale(0.53665195,1.8634052)"><tspan
          sodipodi:role="line"
          id="tspan6456-6-8-8-3"
-         x="967.03436"
-         y="112.04666">GLOBAL</tspan></text>
+         x="957.53644"
+         y="217.3576">GLOBAL</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:83.79618073px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;opacity:0.21000001;fill:#002244;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1355.1307"
-       y="111.94422"
+       x="1345.541"
+       y="216.24622"
        id="text6454-2-3-1-8-2"
        sodipodi:linespacing="125%"
        transform="scale(0.53151046,1.8814305)"><tspan
          sodipodi:role="line"
          id="tspan6456-6-8-8-3-4"
-         x="1355.1307"
-         y="111.94422">CONTROL</tspan></text>
+         x="1345.541"
+         y="216.24622">CONTROL</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:71.37911987px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;opacity:0.21000001;fill:#002244;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -227,12 +226,12 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Labels"
-     transform="translate(80.521455,158.51913)"
+     transform="translate(82.607811,-37.717808)"
      style="display:inline"
      sodipodi:insensitive="true">
     <g
        id="g4558"
-       transform="translate(5.7204464,-195.58852)">
+       transform="translate(0.62338259,0.6484375)">
       <rect
          ry="10.361983"
          y="318.01297"
@@ -261,7 +260,7 @@
     </g>
     <g
        id="g4565"
-       transform="translate(5.517207,-195.13799)">
+       transform="translate(0.42014318,1.0989685)">
       <rect
          ry="10.361983"
          y="317.56244"
@@ -284,7 +283,7 @@
     </g>
     <g
        id="g4570"
-       transform="translate(3.5118558,-195.13799)">
+       transform="translate(-1.5852081,1.0989685)">
       <rect
          ry="10.361983"
          y="317.56244"
@@ -307,7 +306,7 @@
     </g>
     <g
        id="g4580"
-       transform="translate(3.0173367,-196.68749)">
+       transform="translate(-2.0797272,-0.45053101)">
       <rect
          ry="10.361983"
          y="392.79947"
@@ -330,7 +329,7 @@
     </g>
     <g
        id="g4585"
-       transform="translate(2.3635663,-196.23696)">
+       transform="translate(-2.7334976,0)">
       <rect
          ry="10.361983"
          y="392.34894"
@@ -356,12 +355,11 @@
        id="rect4367"
        width="436.38409"
        height="337.36191"
-       x="-4.1884451"
-       y="-83.371811"
+       x="-9.2855091"
+       y="112.86515"
        ry="14.209031" />
     <g
-       id="g5801"
-       transform="translate(5.0970639,-196.23696)">
+       id="g5801">
       <rect
          ry="9.6862001"
          y="165.93904"
@@ -385,7 +383,7 @@
     </g>
     <g
        id="g4645"
-       transform="translate(2.3027707,-193.51123)">
+       transform="translate(-2.7942932,2.7257305)">
       <g
          transform="translate(178.84794,-177.2045)"
          id="g4544-6-6">
@@ -412,7 +410,7 @@
     </g>
     <g
        id="g4544"
-       transform="translate(5.0226782,-194.23696)">
+       transform="translate(-0.07438569,2)">
       <rect
          ry="10.361983"
          y="316.66141"
@@ -435,7 +433,7 @@
     </g>
     <g
        id="g4575"
-       transform="translate(5.9237211,-196.23696)">
+       transform="translate(0.82665724,0)">
       <rect
          ry="10.361983"
          y="392.34894"
@@ -458,7 +456,7 @@
     </g>
     <g
        id="g4590"
-       transform="translate(5.3139187,-198.03905)">
+       transform="translate(0.21685489,-1.8020935)">
       <rect
          ry="10.361983"
          y="394.15103"
@@ -481,7 +479,7 @@
     </g>
     <g
        id="g4657"
-       transform="translate(3.185665,-193.74059)">
+       transform="translate(-1.9113989,2.4963705)">
       <g
          transform="translate(-21.221464,-176.97514)"
          id="g4544-6">
@@ -508,7 +506,7 @@
     </g>
     <g
        id="g4651"
-       transform="translate(4.0136658,-192.23696)">
+       transform="translate(-1.0833981,4.0000004)">
       <g
          transform="translate(77.543801,-178.47877)"
          id="g4544-6-5">
@@ -534,7 +532,7 @@
            sodipodi:role="line">PITCH</tspan></text>
     </g>
     <g
-       transform="translate(105.57126,-120.12646)"
+       transform="translate(100.4742,76.110503)"
        id="g4748">
       <rect
          ry="10.361983"
@@ -557,7 +555,7 @@
            sodipodi:role="line">SYNC</tspan></text>
     </g>
     <g
-       transform="translate(308.90906,-192.69448)"
+       transform="translate(303.812,3.5424819)"
        id="g4753">
       <rect
          ry="10.361984"
@@ -580,7 +578,7 @@
            sodipodi:role="line">PULS</tspan></text>
     </g>
     <g
-       transform="translate(305.40486,-194.60588)"
+       transform="translate(300.3078,1.6310744)"
        id="g4758">
       <rect
          ry="10.361984"
@@ -603,7 +601,7 @@
            sodipodi:role="line">SAW</tspan></text>
     </g>
     <g
-       transform="translate(409.22168,-194.03389)"
+       transform="translate(404.12462,2.2030654)"
        id="g4748-2">
       <rect
          ry="10.361983"
@@ -626,7 +624,7 @@
            sodipodi:role="line">SYNC</tspan></text>
     </g>
     <g
-       transform="translate(511.57393,-118.78704)"
+       transform="translate(506.47687,77.44992)"
        id="g4753-5">
       <rect
          ry="10.361984"
@@ -649,7 +647,7 @@
            sodipodi:role="line">PULS</tspan></text>
     </g>
     <g
-       transform="translate(509.83216,-120.69845)"
+       transform="translate(504.7351,75.538513)"
        id="g4758-5">
       <rect
          ry="10.361984"
@@ -676,22 +674,22 @@
        id="rect4491-49-0-5"
        width="60.369812"
        height="20.723967"
-       x="453.88242"
-       y="-60.933323"
+       x="448.78534"
+       y="135.30363"
        ry="10.361983" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="484.01178"
-       y="-44.977482"
+       x="478.9147"
+       y="151.25948"
        id="text4373-7-8-7-44"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4375-6-2-1-39"
-         x="484.01178"
-         y="-44.977482">OSC1</tspan></text>
+         x="478.9147"
+         y="151.25948">OSC1</tspan></text>
     <g
-       transform="translate(412.09066,-378.49577)"
+       transform="translate(406.9936,-182.25881)"
        id="g4879">
       <rect
          ry="10.361983"
@@ -714,7 +712,7 @@
            sodipodi:role="line">OSC2</tspan></text>
     </g>
     <g
-       transform="translate(309.93703,-378.49577)"
+       transform="translate(304.83997,-182.25881)"
        id="g4879-5">
       <rect
          ry="10.361983"
@@ -737,7 +735,7 @@
            sodipodi:role="line">MIX2</tspan></text>
     </g>
     <g
-       transform="translate(207.78331,-378.49577)"
+       transform="translate(202.68625,-182.25881)"
        id="g4879-0">
       <rect
          ry="10.361983"
@@ -761,8 +759,8 @@
     </g>
     <rect
        ry="10.362"
-       y="-83.371811"
-       x="435.38132"
+       y="112.86515"
+       x="430.28424"
        height="337.36191"
        width="200.05751"
        id="rect4920"
@@ -772,8 +770,8 @@
        id="rect5026"
        width="225.07423"
        height="337.36194"
-       x="638.14185"
-       y="-83.371819"
+       x="633.0448"
+       y="112.86514"
        ry="10.362" />
     <g
        id="g5533">
@@ -929,80 +927,80 @@
        id="rect4491-8-1"
        width="60.369812"
        height="20.723967"
-       x="148.5356"
-       y="222.44441"
+       x="143.43854"
+       y="418.68137"
        ry="10.361983" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="178.74828"
-       y="238.40025"
+       x="173.65121"
+       y="434.63721"
        id="text4373-7-83-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4375-6-6-2"
-         x="178.74828"
-         y="238.40025">HQ</tspan></text>
+         x="173.65121"
+         y="434.63721">HQ</tspan></text>
     <rect
        style="opacity:1;fill:#529dff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4491-6-4"
        width="60.369812"
        height="20.723967"
-       x="250.15009"
-       y="222.44441"
+       x="245.05302"
+       y="418.68137"
        ry="10.361983" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="280.36276"
-       y="238.40025"
+       x="275.26569"
+       y="434.63721"
        id="text4373-7-64-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4375-6-35-4"
-         x="280.36276"
-         y="238.40025">BP</tspan></text>
+         x="275.26569"
+         y="434.63721">BP</tspan></text>
     <rect
        style="opacity:1;fill:#529dff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4491-1-1"
        width="60.369812"
        height="20.723967"
-       x="46.921131"
-       y="222.44441"
+       x="41.824066"
+       y="418.68137"
        ry="10.361983" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="77.117935"
-       y="236.94426"
+       x="72.020874"
+       y="433.18121"
        id="text4373-7-2-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4375-6-3-7"
-         x="77.117935"
-         y="236.94426">KEY</tspan></text>
+         x="72.020874"
+         y="433.18121">KEY</tspan></text>
     <rect
        style="opacity:1;fill:#529dff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4491-18-3"
        width="60.369812"
        height="20.723967"
-       x="351.76459"
-       y="222.44441"
+       x="346.66751"
+       y="418.68137"
        ry="10.361983" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="381.66385"
-       y="238.39629"
+       x="376.56677"
+       y="434.63324"
        id="text4373-7-5-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="381.66385"
-         y="238.39629"
+         x="376.56677"
+         y="434.63324"
          id="tspan4487-1">24dB</tspan></text>
     <g
        id="g5440"
-       transform="translate(6.1660207,-150.36339)">
+       transform="translate(1.0689568,45.873571)">
       <g
          style="fill:#529dff;fill-opacity:1"
          transform="translate(174.98469,-244.14312)"
@@ -1030,7 +1028,7 @@
     </g>
     <g
        id="g5428"
-       transform="translate(7.048912,-150.59275)">
+       transform="translate(1.9518481,45.644211)">
       <g
          style="fill:#529dff;fill-opacity:1"
          transform="translate(-25.084711,-243.91376)"
@@ -1058,7 +1056,7 @@
     </g>
     <g
        id="g5434"
-       transform="translate(6.6074728,-149.08912)">
+       transform="translate(1.5104089,47.147841)">
       <g
          style="fill:#529dff;fill-opacity:1"
          transform="translate(74.949994,-245.41739)"
@@ -1086,7 +1084,7 @@
     </g>
     <g
        id="g5446"
-       transform="translate(7.6456263,-150.47807)">
+       transform="translate(2.5485624,45.758891)">
       <g
          style="fill:#529dff;fill-opacity:1"
          transform="translate(273.09835,-244.02844)"
@@ -1423,7 +1421,7 @@
     </g>
     <g
        id="g5794"
-       transform="translate(5.0970639,-184.23696)">
+       transform="translate(0,12.000001)">
       <rect
          ry="9.6862001"
          y="286.80243"
@@ -1646,8 +1644,7 @@
            id="tspan5754-1">Amp Env</tspan></text>
     </g>
     <g
-       id="g6172"
-       transform="translate(5.0970639,-196.23696)">
+       id="g6172">
       <rect
          ry="10.249354"
          y="419.37033"
@@ -1669,8 +1666,7 @@
            sodipodi:role="line">BEND OSC2</tspan></text>
     </g>
     <g
-       id="g6167"
-       transform="translate(5.0970639,-196.23696)">
+       id="g6167">
       <rect
          ry="10.361984"
          y="419.37033"
@@ -1692,8 +1688,7 @@
            sodipodi:role="line">BEND 12</tspan></text>
     </g>
     <g
-       id="g6183"
-       transform="translate(5.0970639,-196.23696)">
+       id="g6183">
       <rect
          ry="10.361984"
          y="419.37033"
@@ -1715,8 +1710,7 @@
            sodipodi:role="line">UNISON</tspan></text>
     </g>
     <g
-       id="g6188"
-       transform="translate(5.0970639,-196.23696)">
+       id="g6188">
       <rect
          ry="10.361984"
          y="419.37033"
@@ -2026,17 +2020,18 @@
      inkscape:label="Cut-Grid"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(80.521455,158.51913)">
+     transform="translate(82.607811,-37.717808)"
+     sodipodi:insensitive="true">
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:6, 6;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4640"
        width="871.65356"
        height="343.70078"
-       x="-6.1446009"
-       y="-87.153038" />
+       x="-11.241665"
+       y="109.08392" />
     <g
        id="g4476"
-       transform="translate(29.7836,-813.04494)"
+       transform="translate(24.686536,-616.80798)"
        style="fill:#ffeace;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:6, 6;stroke-dashoffset:0;stroke-opacity:1">
       <circle
          r="47.834644"
@@ -2093,7 +2088,7 @@
     <g
        id="g4649"
        style="fill:#ffeace;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:6, 6;stroke-dashoffset:0;stroke-opacity:1"
-       transform="translate(-33.493148,-183.93156)">
+       transform="translate(-38.590212,12.305399)">
       <rect
          y="259.7706"
          x="78.726501"
