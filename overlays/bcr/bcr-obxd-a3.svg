@@ -145,9 +145,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.52643472"
-     inkscape:cx="701.24226"
-     inkscape:cy="505.44001"
+     inkscape:zoom="0.74449112"
+     inkscape:cx="848.36829"
+     inkscape:cy="425.24552"
      inkscape:document-units="cm"
      inkscape:current-layer="layer6"
      showgrid="false"
@@ -350,15 +350,14 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Cut-Grid-Backgound A3"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        y="33.79208"
        x="152.52495"
        height="343.85089"
        width="1091.0208"
        id="rect4435"
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#ebff9a;fill-opacity:1;stroke:#000000;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:1.8, 1.80000000000000004;stroke-dashoffset:0;stroke-opacity:1"
        transform="translate(18.828279,43.754378)" />
     <rect
        y="402.64456"
@@ -366,7 +365,7 @@
        height="535.08826"
        width="1090.5101"
        id="rect6858"
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#ebff9a;fill-opacity:1;stroke:#000000;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:1.8, 1.80000000000000004;stroke-dashoffset:0;stroke-opacity:1"
        transform="translate(18.828279,43.754378)" />
   </g>
   <g
