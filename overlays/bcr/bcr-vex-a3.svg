@@ -147,10 +147,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7071068"
-     inkscape:cx="839.62016"
-     inkscape:cy="334.43617"
+     inkscape:cx="724.00553"
+     inkscape:cy="767.1757"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1276"
      inkscape:window-height="761"
@@ -444,7 +444,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Label Groups"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <circle
        r="54.178711"
        cy="179.00679"
@@ -1522,24 +1523,24 @@
          id="tspan6314">On/Off</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1076.0034"
-       y="226.81348"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;line-height:125%;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1086.5076"
+       y="235.31348"
        id="text4288"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4290"
-         x="1076.0034"
-         y="226.81348">10</tspan></text>
+         x="1086.5076"
+         y="235.31348">10</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4304"
-       y="226.81348"
-       x="1178.0034"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="235.31348"
+       x="1188.5076"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;line-height:125%;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="226.81348"
-         x="1178.0034"
+         y="235.31348"
+         x="1188.5076"
          id="tspan4306"
          sodipodi:role="line">11</tspan></text>
     <text
