@@ -57,5 +57,10 @@ end
 function value_to_midi(min_value, max_value, current_value)
     local a = current_value - min_value
     local b = max_value - min_value
-    return math.floor((a / b) * 127)
+    local result = math.floor((a / b) * 127)
+    if result > -1 then
+        return result
+    else
+        return 0
+    end
 end

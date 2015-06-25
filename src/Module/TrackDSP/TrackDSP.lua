@@ -52,9 +52,9 @@ function TrackDSP:__create_dsp_parameter_dump()
                 -- parameter.value_min
                 -- parameter.value_max
                 -- parameter.value
-                local midi_value = value_to_midi(parameter.value_min, parameter.value_max, parameter.value)
-                print("paramter dump " .. i .. " -> " .. midi_value)
                 -- fixme negative midi_values are possible, the function should not return negative values
+                local midi_value = value_to_midi(parameter.value_min, parameter.value_max, parameter.value)
+--                print("paramter dump " .. i .. " -> " .. midi_value .. " [" ..parameter.value_min .. "," .. parameter.value .. "," .. parameter.value_max .. "]")
                 self.midi:send(0xb0 , i - 1 , midi_value)
             end
         end
