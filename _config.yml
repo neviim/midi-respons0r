@@ -1,12 +1,12 @@
 # Site settings
-title: Steppor
+title: MIDI-Respons0r
 email: palipalo9@googlemail.com
-description: "A Launchpad Step-Sequencer for Renoise"
-keywords: "Renoise, Launchpad, Steppor, Step-Sequencer"
+description: "A Midi Controller feedback plugin for Renoise"
+keywords: "Renoise, Midi-Controller"
 baseurl: "/midi-respons0r"
 url: "http://mrvandalo.github.io"
 
-actual_version: "Stepp0r-0.60.xrnx"
+actual_version: "Respons0r-0.10.xrnx"
 
 # Build settings
 markdown: kramdown
