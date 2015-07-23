@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Updated Documentation because of Release 0.60"
-date:   2015-04-01 14:31:00
-categories: update 
+title:  "released alpha version"
+date:   2015-07-23 14:31:00
+categories: init
 author: "Palo van Dalo"
-abstract: "Finally I found some time to update the documentation. Now you can read about the Pattern Matrix mode"
+abstract: "This is why I couldn't create updates for Stepp0r"
 ---
-Have a look at [the documentation]( {{site.baseurl }}/documentation/ ).
+
+This page will be here for some while and a bit incomplete until I finished the first version of the plugin.
