@@ -1,1 +1,0 @@
-{"name":"Midi Respons0r","tagline":"","body":"# Midi Response\r\n\r\nA small script to make midi feedback possible on renoise.\r\n\r\nThe core idea ist to listen to events (track change, or dsp change) and dump the parameter data \r\nto a midi device.\r\n\r\n\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
