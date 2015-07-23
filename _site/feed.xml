@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steppor</title>
+    <description>A Launchpad Step-Sequencer for Renoise</description>
+    <link>http://mrvandalo.github.io/stepp0r/</link>
+    <atom:link href="http://mrvandalo.github.io/stepp0r/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Updated Documentation because of Release 0.60</title>
+        <description>&lt;p&gt;Have a look at &lt;a href=&quot;/stepp0r/documentation/&quot;&gt;the documentation&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Apr 2015 16:31:00 +0200</pubDate>
+        <link>http://mrvandalo.github.io/stepp0r/update/2015/04/01/update_documentation/</link>
+        <guid isPermaLink="true">http://mrvandalo.github.io/stepp0r/update/2015/04/01/update_documentation/</guid>
+      </item>
+    
+      <item>
+        <title>Release 0.60</title>
+        <description>&lt;p&gt;I am really proud on this one. The new Pattern Matrix view will help you to arrange your patterns
+like (or for) the plugins ‘Live Dive’, ‘Grid Pie’ or ‘Cells’.&lt;/p&gt;
+
+&lt;p&gt;Documentation will be updated soon.&lt;/p&gt;
+
+&lt;p&gt;You can download the Plugin &lt;a href=&quot;/stepp0r/downloads/Stepp0r-0.60.xrnx&quot;&gt;here&lt;/a&gt;,
+&lt;a href=&quot;http://www.renoise.com/tools/stepp0r&quot;&gt;here&lt;/a&gt; or use the
+&lt;a href=&quot;http://www.renoise.com/tools/update-checker&quot;&gt;Renoise-Update-Checker&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;meelis-veilberg&quot;&gt;0.60 Meelis Veilberg&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;pagination of instruments should be configurable in the ui &lt;code&gt;enhancement&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Clean up some functions to the renoise object &lt;code&gt;tech-enhancement&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Edit Pattern Matrix &lt;code&gt;enhancement&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Improve pattern editor view &lt;code&gt;enhancement&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;record button &lt;code&gt;enhancement&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Launchpad 1 does not react instantly &lt;code&gt;bug&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 12 Mar 2015 22:31:00 +0100</pubDate>
+        <link>http://mrvandalo.github.io/stepp0r/update/ableton-live/2015/03/12/released_060/</link>
+        <guid isPermaLink="true">http://mrvandalo.github.io/stepp0r/update/ableton-live/2015/03/12/released_060/</guid>
+      </item>
+    
+      <item>
+        <title>Release 0.50</title>
+        <description>&lt;p&gt;You can download it here &lt;a href=&quot;http://www.renoise.com/tools/stepp0r&quot;&gt;here&lt;/a&gt; or use the renoise updater tool.&lt;/p&gt;
+
+&lt;h2 id=&quot;kalev-urbanik-changelog&quot;&gt;0.50 Kalev Urbanik (Changelog)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;fix master branch  bug&lt;/li&gt;
+  &lt;li&gt;optimize bank_max and bank_min arithmetics  &lt;code&gt;tech-enhancement&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;extract duplicated logic from Adjuster and Stepper  &lt;code&gt;bug&lt;/code&gt; &lt;code&gt;enhancement&lt;/code&gt; &lt;code&gt;tech-enhancement&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;All wiring, listener registration and so on should be done in the setup class  &lt;code&gt;tech-enhancement&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;enforce private and public naming convention  enhancement &lt;code&gt;tech-enhancement&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;select instrument in renoise when select instrument on launchpad  &lt;code&gt;enhancement&lt;/code&gt; &lt;code&gt;question&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;select instrument when muting it  &lt;code&gt;enhancement&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;update stepper matrix when changing pattern link on active pattern  &lt;code&gt;enhancement&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sat, 21 Feb 2015 22:31:00 +0100</pubDate>
+        <link>http://mrvandalo.github.io/stepp0r/update/2015/02/21/released_050/</link>
+        <guid isPermaLink="true">http://mrvandalo.github.io/stepp0r/update/2015/02/21/released_050/</guid>
+      </item>
+    
+      <item>
+        <title>Put Stepp0r in the renoise Plugin upstream</title>
+        <description>&lt;p&gt;Today I uploaded Stepp0r to renoise.com. You can download the plugin &lt;a href=&quot;http://renoise.com/tools/stepp0r&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can also use the renoise plugin updater to get always the newest version of Stepp0r.&lt;/p&gt;
+
+&lt;p&gt;AWESOME!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 25 Dec 2014 22:31:00 +0100</pubDate>
+        <link>http://mrvandalo.github.io/stepp0r/published/2014/12/25/renoise_upstream/</link>
+        <guid isPermaLink="true">http://mrvandalo.github.io/stepp0r/published/2014/12/25/renoise_upstream/</guid>
+      </item>
+    
+      <item>
+        <title>Christmas Release 0.4.1</title>
+        <description>&lt;h2 id=&quot;santa-clause&quot;&gt;0.4.1 Santa Clause&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;fixed copy-paste bug (insertion of empty instruments)&lt;/li&gt;
+  &lt;li&gt;add rotation of the pad (just left and right for now)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 17 Dec 2014 22:31:00 +0100</pubDate>
+        <link>http://mrvandalo.github.io/stepp0r/update/2014/12/17/released_041/</link>
+        <guid isPermaLink="true">http://mrvandalo.github.io/stepp0r/update/2014/12/17/released_041/</guid>
+      </item>
+    
+  </channel>
+</rss>
