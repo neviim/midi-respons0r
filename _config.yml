@@ -3,7 +3,7 @@ title: MIDI-Respons0r
 email: palipalo9@googlemail.com
 description: "A Midi Controller feedback plugin for Renoise"
 keywords: "Renoise, Midi-Controller"
-baseurl: "/MIDI-Respons0r"
+baseurl: "/midi-respons0r"
 url: "http://mrvandalo.github.io"
 
 actual_version: "Respons0r-0.10.xrnx"
