@@ -14,7 +14,7 @@ function MainUI:__init()
     self.input_size  = 200
     self.command_button_size = 80
     -- text-area
-    self.textarea_height = 100
+    self.textarea_height = 200
     self.textarea_width = 70 + 200 + 18 + 4 + 4
     self.is_running = false
     self.default_osc_port = '8000'
@@ -75,10 +75,14 @@ end
 function MainUI:create_textarea()
     self.textarea_text = {
         "Configuration",
-        "=============",
+        "=========",
         "Ch1 ParamX : dsp parameters X of the current DSP",
         "Ch2 Param0 : selected dsp as MIDI value (0-127)",
-        "Ch2 Param1-127 : selected dsp as MIDI value 0"
+        "Ch2 Param1-127 : 1 = selected DSP, 0 = not selected",
+        "",
+        "Trigger",
+        "====",
+        "Changing a DSP or a Track will dump midi parameters!",
     }
     self.textarea = self.vb:multiline_text{
         paragraphs = self.textarea_text,

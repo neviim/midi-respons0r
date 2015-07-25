@@ -2,7 +2,7 @@
 <RenoiseScriptingTool>
   <Name>Midi-Response</Name>
   <Id>com.mrVanDalo.MidiResponse</Id>
-  <Version>0.1</Version>
+  <Version>0.10</Version>
   <ApiVersion>4</ApiVersion>
   <Author>Ingolf Wagner (palipalo9@googlemail.com)</Author>
   <AutoUpgraded>false</AutoUpgraded>

@@ -2,7 +2,7 @@
 require 'fileutils'
 
 BUILD_DIR='./build'
-version='0.1'
+version='0.10'
 project_title='MidiResponse'
 export_folder="#{project_title}-#{version}"
 test_folder="test-#{version}"

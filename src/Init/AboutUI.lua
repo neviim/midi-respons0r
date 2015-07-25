@@ -21,7 +21,7 @@ function AboutUI:__init()
         "© by stylefusion.de","",
         "Homepage",
         "=======",
-        "http://mrvandalo.github.io/stepp0r/","",
+        "http://mrvandalo.github.io/midi-respons0r/","",
         "License",
         "=====",
         "GPLv3 http://www.gnu.org/copyleft/gpl.html",
