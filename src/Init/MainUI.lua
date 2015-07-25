@@ -13,6 +13,9 @@ function MainUI:__init()
     self.text_size   = 70
     self.input_size  = 200
     self.command_button_size = 80
+    -- text-area
+    self.textarea_height = 200
+    self.textarea_width = 70 + 200 + 18 + 4 + 4
     self.is_running = false
     self.default_osc_port = '8000'
     self:unregister_run_callback()
@@ -22,6 +25,7 @@ end
 
 function MainUI:create_ui()
     self:create_logo()
+    self:create_textarea()
     self:create_device_row()
     self:create_start_stop_button()
     self:create_quit_button()
@@ -43,6 +47,7 @@ function MainUI:create_container()
         self.vb:column {
             spacing = 4,
             margin = 4,
+            self.textarea,
             self.osc_row,
             self.device_row,
             self.rotation_row,
@@ -63,6 +68,28 @@ function MainUI:create_logo()
     }
 end
 
+--- ======================================================================================================
+---
+---                                                 [ Textarea Row ]
+
+function MainUI:create_textarea()
+    self.textarea_text = {
+        "Configuration",
+        "=========",
+        "Ch1 ParamX : dsp parameters X of the current DSP",
+        "Ch2 Param0 : selected dsp as MIDI value (0-127)",
+        "Ch2 Param1-127 : 1 = selected DSP, 0 = not selected",
+        "",
+        "Trigger",
+        "====",
+        "Changing a DSP or a Track will dump midi parameters!",
+    }
+    self.textarea = self.vb:multiline_text{
+        paragraphs = self.textarea_text,
+        width = self.textarea_width,
+        height = self.textarea_height,
+    }
+end
 
 --- ======================================================================================================
 ---
