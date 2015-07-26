@@ -10,7 +10,7 @@ permalink: /documentation/
 * [Using BCR and VSTi](#bcr-and-vsti)
 
 
-### Introduction
+## Introduction
 
 Respons0r is a plugin to dump parameters in
 renoise
@@ -23,7 +23,7 @@ This makes only sense for midi-controller , like
 
 coming with parameter displays.
 
-### Channels
+## Channels
 
 right now the channels and parameters are fixed, but some day you can configure them yourself.
 
@@ -34,10 +34,10 @@ Channel  | Parameter   | MIDI Value  |  Description
 2 | 0 | 0-127 | The MIDI Value given is the currently selected Track DSP.
 2 | 1-127 | 0,127 | The parameter references to the DSP in the current track. 0 means unfocused, 127 means focused
 
-### Trigger
+## Trigger
 To get the MIDI dump triggered you have to change the selection of the DSP or the Track.
 
-### BCR and VSTi
+## BCR and VSTi
 When you want to control a VSTi using your BCR and renoise is the main idea behind this project.
 
 * configure the *Selected FX* parameters
