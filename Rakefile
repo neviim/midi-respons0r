@@ -3,7 +3,7 @@ require 'fileutils'
 
 BUILD_DIR='./build'
 version='0.10'
-project_title='MidiResponse'
+project_title='Midi-Respons0r'
 export_folder="#{project_title}-#{version}"
 test_folder="test-#{version}"
 

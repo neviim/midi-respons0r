@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RenoiseScriptingTool>
-  <Name>Midi-Response</Name>
-  <Id>com.mrVanDalo.MidiResponse</Id>
+  <Name>Midi-Respons0r</Name>
+  <Id>com.mrVanDalo.Midi-Respons0r</Id>
   <Version>0.10</Version>
   <ApiVersion>4</ApiVersion>
   <Author>Ingolf Wagner (palipalo9@googlemail.com)</Author>
-  <AutoUpgraded>false</AutoUpgraded>
+  <AutoUpgraded>true</AutoUpgraded>
   <Category>In Progress</Category>
   <Description>Midi Response for Track Data and Track DSP data</Description>
-  <Homepage>http://mrvandalo.github.io/midi-response/</Homepage>
+  <Homepage>http://mrvandalo.github.io/midi-respons0r/</Homepage>
   <Platform/>
   <Icon>icon.png</Icon>
 </RenoiseScriptingTool>
