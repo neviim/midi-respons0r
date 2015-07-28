@@ -6,7 +6,7 @@ keywords: "Renoise, Midi-Controller"
 baseurl: "/midi-respons0r"
 url: "http://mrvandalo.github.io"
 
-actual_version: "Respons0r-0.10.xrnx"
+actual_version: "Midi-Respons0r-0.10.xrnx"
 
 # Build settings
 markdown: kramdown
