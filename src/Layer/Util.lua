@@ -35,7 +35,7 @@ function create_bank()
 end
 
 function midi_to_value(midi_value, current_value, min_value, max_value )
-    print("default")
+--    print("default")
     local a = (max_value - min_value)
 --    print("a : " .. a)
     local c = a * midi_value / 127
@@ -46,11 +46,11 @@ function midi_to_value(midi_value, current_value, min_value, max_value )
 end
 
 function midi_to_value_log(midi_value, current_value, min_value, max_value )
-    print("exp")
+--    print("exp")
     local a = (max_value - min_value)
     local c = a * ( 1 - math.log(128 - midi_value)/math.log(128))
     local d = c + min_value
-    print("d : " .. d)
+--    print("d : " .. d)
     return d
 end
 
