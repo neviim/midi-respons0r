@@ -41,7 +41,7 @@ To get the MIDI dump triggered you have to change the selection of the DSP or th
 When you want to control a VSTi using your BCR and renoise is the main idea behind this project.
 
 * configure the *Selected FX* parameters
-* download or create an instrument automatisation
-* download or create a overlay for your VSTi
+* download  or create an instrument automatisation
+* [download]({{ site.baseurl }}/downloads#bcr) or create a overlay for your VSTi
 * print and cut the overlay
 * use magnet-scotch-tape to glue the overlay to your midi-controller

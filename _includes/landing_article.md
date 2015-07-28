@@ -6,7 +6,7 @@ This plugin makes it possible to update your MIDI-Controller when changing somet
 You can
 
 * create a mapping for some VST
-* put an overlay on you MIDI-Controller
+* put an [overlay]( {{ site.baseurl}}/downloads/#overlays ) on you MIDI-Controller
 * change parameters in  [Renoise](http://www.renoise.com/), and this plugin will send the changes to the MIDI-Controller.
 
 
